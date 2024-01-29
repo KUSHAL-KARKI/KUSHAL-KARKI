@@ -11,6 +11,5 @@
 ### 📫 Connect with me:
 
 - 📧 Email: kushalkarki1344@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/kushal-karki
 ### 🌟 Check out my repositories below and let's collaborate!
 
