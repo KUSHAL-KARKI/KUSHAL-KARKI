@@ -7,10 +7,10 @@
 
 - 💻 HTML | CSS | JavaScript
 - ⚛️ React.js | Bootstrap | Tailwind CSS
-- 
+  
 ### 📫 Connect with me:
 
 - 📧 Email: kushalkarki1344@gmail.com
-- 💼 LinkedIn:Kushal Karki
+- 💼 LinkedIn: www.linkedin.com/in/kushal-karki
 ### 🌟 Check out my repositories below and let's collaborate!
 
